@@ -1,7 +1,7 @@
 **Problem Statement:** Employee attrition impacts productivity and morale, making it essential to understand its causes. This study analyzes objective factors like job satisfaction, work-life balance, and compensation to identify controllable and uncontrollable contributors to attrition. The goal is to create a model to predict employees at risk of leaving, allowing the company to implement strategies to improve retention.
 
 
-**Data:** The dataset consists of 1,470 entries and 35 columns, with 11 categorical and 24 numerical variables. It contains no NULL values or outliers. The target variable, ATTRITION, is binary, with values 'YES' or 'NO'.
+**Data:** The dataset consists of 1,470 entries and 35 columns, with 11 categorical and 24 numerical variables. It contains no NULL values or outliers. The target variable, 'attrition', is binary, with values 'YES' or 'NO'.
 
 
 **Research Questions:** 
