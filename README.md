@@ -4,7 +4,8 @@
 **Data:** The dataset consists of 1,470 entries and 35 columns, with 11 categorical and 24 numerical variables. It contains no NULL values or outliers. The target variable, ATTRITION, is binary, with values 'YES' or 'NO'.
 
 
-**Research Questions:** 1. What are the key indicators that signal an employee is likely to leave the company?
+**Research Questions:** 
+                        1. What are the key indicators that signal an employee is likely to leave the company?
 
                         2. What is the probability of employee attrition given various contributing factors?
 These questions aim to identify specific predictors of attrition and estimate the likelihood of an employee's departure based on those factors, helping to inform targeted retention strategies.
